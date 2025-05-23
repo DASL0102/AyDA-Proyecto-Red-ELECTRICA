@@ -1,0 +1,6 @@
+# Ignora archivos no necesarios
+.vscode/settings.json
+.vscode/
+build/
+programa
+*.dot
